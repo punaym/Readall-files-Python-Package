@@ -1,0 +1,9 @@
+setup.py
+Readallfiles/Readfiles.py
+Readallfiles/__init__.py
+Readallfiles/setup.py
+Readallfiles.egg-info/PKG-INFO
+Readallfiles.egg-info/SOURCES.txt
+Readallfiles.egg-info/dependency_links.txt
+Readallfiles.egg-info/requires.txt
+Readallfiles.egg-info/top_level.txt
